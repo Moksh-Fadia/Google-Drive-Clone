@@ -1,0 +1,60 @@
+.searchbar input {
+    position: absolute;
+    margin-top: 0.5px;
+    margin-left: 300px;
+    padding: 10px;
+    padding-left: 30px;
+    width: 60%;
+    background-color: lightgray;
+    font-size: 16px;
+    border: none;
+    outline: none;
+}
+
+.head{
+    top: 30px;
+    color: black;
+    margin-left: 57px;
+    font-size: 20px; 
+}
+
+.new {
+    background-color: blue;
+    border-color: blue;
+    color: white;
+    width: 5%;
+    padding: 5px 10px;
+    margin-left: 63px;
+    margin-top: 2px;
+    line-height: 20px;
+    cursor: pointer;
+}
+
+.icon1 {
+    padding-left: 1260px;
+    font-size: 25px;
+    
+}
+
+.icon2 {
+    padding-left: 1320px;
+    font-size: 25px;
+}
+
+.sidebar{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 80px;
+    background-color: #f1f3f4;
+    position: fixed;
+    width: 20%;     
+    border-right: 1px solid #ccc;    
+}
+
+.sidebar li{
+    line-height: 65px;
+    list-style-type: none;
+    font-size: 18px;   
+}
+
